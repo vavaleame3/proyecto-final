@@ -1,0 +1,30 @@
+[
+    {
+    "portada":"images/portada/destiny2.jpg",
+    "nombre": "Destiny 2: Forsaken",
+    "subtitulo":"La caza ha comenzado",
+    "descrip":"The Reef ha entrado en la anarquía y, ahora, los criminales más buscados de la galaxia, los Barons y Uldren Sov, han organizado una fuga de la cárcel de Elders. Tú y Cayde-6 debéis restablecer el orden en las asediadas instalaciones, pero las cosas no van como previsto. Al enfrentarse a posibilidades insuperables, Cayde-6 termina pagando el precio más alto. Más allá de la autoridad de Vanguard, entrarás en Reef solo y tomarás justicia por tu propia cuenta. Explora nuevas regiones y despierta nuevos poderes, consigue armas poderosas y revela secretos despiertos perdidos hace tiempo. La caza ha comenzado.",
+    "caratula":"images/caratula/caratula-juego2.jpg",
+    "price": 80,    
+    "desarrollador": "Bungie",
+    "editor":"Activision",
+    "plataforma": "PC, Xbox, PS4",
+    "ERSB": "images/ERSB_RP.svg",
+    "requerimientos":[" SO: Windows® 7 / Windows® 8 / Windows® 10 64-bit " , "Procesador: Intel® Core™ i5 2400 3.4 GHz or i5 7400 3.5 GHz / AMD Ryzen R5 1600X 3.6 GHz " , "Memoria:8 GB" , "Video: NVIDIA® GeForce® GTX 970 4GB or GTX 1060 6GB / AMD R9 390 8GB"
+    ]},
+    {
+    "nombre":"FIFA 19",
+    "descrip":"Con el poder de Frostbite™*, EA SPORTS™ FIFA 19 te entrega una experiencia de calibre de campeón dentro y fuera de la cancha. Empezando con la prestigiosa UEFA Champions League, FIFA 19 ofrece herramientas de juego mejoradas que te permiten controlar la cancha en todo momento. Hay formas de jugar nuevas e inigualables, como el dramático final de la historia de Alex Hunter en El Trayecto: Campeones, un nuevo modo en el popular FIFA Ultimate Team™, y mucho más. ¡Llegó la Champions! a FIFA 19.",
+    "caratula":"images/caratula/fifa19-caratula.jpg",
+    "price":65,
+    "desarrollador":"FromSoftware, Inc.",
+    "plataforma":"PC, Xbox, PS4, PS3"
+   },
+   {"nombre":"Dark Souls: Remastered",
+    "descrip":"Entonces llegó el Fuego. Vuelve a disfrutar del aclamado juego que definió el género con el que empezó todo. Gracias a una magnífica remasterización, podrás regresar a Lordran con unos impresionantes detalles en alta definición y a 60 fps. Dark Souls Remastered incluye el juego principal y el contenido descargable <<Artorias of the Abyss>>.",
+    "price":39,
+    "caratula":"images/caratula/caratula-juego.jpg",
+    "desarrollador":"BANDAI NAMCO Entertainment Inc.",
+    "plataforma": "PC, Xbos, PS4"  
+    }
+]
