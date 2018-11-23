@@ -12,7 +12,8 @@
     "ERSB": "images/ERSB_RP.svg",
     "requerimientos":[" SO: Windows® 7 / Windows® 8 / Windows® 10 64-bit " , "Procesador: Intel® Core™ i5 2400 3.4 GHz or i5 7400 3.5 GHz / AMD Ryzen R5 1600X 3.6 GHz " , "Memoria:8 GB" , "Video: NVIDIA® GeForce® GTX 970 4GB or GTX 1060 6GB / AMD R9 390 8GB"
     ],
-    "carpeta":"destiny-dos"
+    "carpeta":"destiny-dos",
+    "genero":"#Acción #Shooter"
     },
     {
     "nombre":"FIFA 19",
@@ -21,8 +22,7 @@
     "price":65,
     "desarrollador":"FromSoftware, Inc.",
     "plataforma":"PC, Xbox, PS4, PS3",
-    "carpeta":"fifa-xix",
-    "genero":"#Acción #Shooter"
+    "carpeta":"fifa-xix"
    },
    {"nombre":"Dark Souls: Remastered",
     "descrip":"Entonces llegó el Fuego. Vuelve a disfrutar del aclamado juego que definió el género con el que empezó todo. Gracias a una magnífica remasterización, podrás regresar a Lordran con unos impresionantes detalles en alta definición y a 60 fps. Dark Souls Remastered incluye el juego principal y el contenido descargable <<Artorias of the Abyss>>.",
