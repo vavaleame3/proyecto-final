@@ -16,15 +16,15 @@
     "genero":"#Accion #Aventura #Shooter"
     },
     {
-        "portada":"images/juegos/fifa-xix/caratula.jpg",
+        "portada":"images/juegos/fifa-xix/portada.jpg",
         "nombre": "FIFA 19",
         "subtitulo":"Tu temporada empieza ahora",
         "descrip":"Con el poder de Frostbite™*, EA SPORTS™ FIFA 19 te entrega una experiencia de calibre de campeón dentro y fuera de la cancha. Empezando con la prestigiosa UEFA Champions League, FIFA 19 ofrece herramientas de juego mejoradas que te permiten controlar la cancha en todo momento. Hay formas de jugar nuevas e inigualables, como el dramático final de la historia de Alex Hunter en El Trayecto: Campeones, un nuevo modo en el popular FIFA Ultimate Team™, y mucho más. ¡Llegó la Champions! a FIFA 19.",
-        "caratula":"images/caratula/fifa19-caratula.jpg",
+        "caratula":"images/caratula/caratula.jpg",
         "price":65,    
         "desarrollador":"FromSoftware, Inc.",
         "plataforma":"PC, Xbox, PS4, PS3",
-        "ERSB": "images/ERSB_RP.svg",
+        "ERSB": "images/everyone.svg",
         "requerimientos":[" SO: Windows® 7 / Windows® 8 / Windows® 10 64-bit " , "Procesador: Intel Core i3-2100 a 3,1 GHz / AMD Phenom II X4 965 a 3,4 GHz " , "Memoria:8 GB" , "Video: NVIDIA GTX 460 de 1 GB / AMD Radeon R7 260"
         ],
         "carpeta":"fifa-xix", 
