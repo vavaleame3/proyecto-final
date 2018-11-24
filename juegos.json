@@ -1,35 +1,108 @@
 [
     {
-    "portada":"images/juegos/destiny-dos/portada.jpg",
+    "portada":"../images/juegos/destiny-dos/portada.jpg",
     "nombre": "Destiny 2: Forsaken",
     "subtitulo":"La caza ha comenzado",
     "descrip":"The Reef ha entrado en la anarquía y, ahora, los criminales más buscados de la galaxia, los Barons y Uldren Sov, han organizado una fuga de la cárcel de Elders. Tú y Cayde-6 debéis restablecer el orden en las asediadas instalaciones, pero las cosas no van como previsto. Al enfrentarse a posibilidades insuperables, Cayde-6 termina pagando el precio más alto. Más allá de la autoridad de Vanguard, entrarás en Reef solo y tomarás justicia por tu propia cuenta. Explora nuevas regiones y despierta nuevos poderes, consigue armas poderosas y revela secretos despiertos perdidos hace tiempo. La caza ha comenzado.",
-    "caratula":"images/juegos/destiny-dos/caratula.jpg",
+    "caratula":"../images/juegos/destiny-dos/caratula.jpg",
     "price": 80,    
     "desarrollador": "Bungie",
     "editor":"Activision",
     "plataforma": "PC, Xbox, PS4",
-    "ERSB": "images/ERSB_RP.svg",
+    "ERSB": "../images/mature17.gif",
     "requerimientos":[" SO: Windows® 7 / Windows® 8 / Windows® 10 64-bit " , "Procesador: Intel® Core™ i5 2400 3.4 GHz or i5 7400 3.5 GHz / AMD Ryzen R5 1600X 3.6 GHz " , "Memoria:8 GB" , "Video: NVIDIA® GeForce® GTX 970 4GB or GTX 1060 6GB / AMD R9 390 8GB"
     ],
     "carpeta":"destiny-dos",
-    "genero":"#Acción #Shooter"
+    "genero":"#Accion #Aventura #Shooter"
     },
     {
-    "nombre":"FIFA 19",
-    "descrip":"Con el poder de Frostbite™*, EA SPORTS™ FIFA 19 te entrega una experiencia de calibre de campeón dentro y fuera de la cancha. Empezando con la prestigiosa UEFA Champions League, FIFA 19 ofrece herramientas de juego mejoradas que te permiten controlar la cancha en todo momento. Hay formas de jugar nuevas e inigualables, como el dramático final de la historia de Alex Hunter en El Trayecto: Campeones, un nuevo modo en el popular FIFA Ultimate Team™, y mucho más. ¡Llegó la Champions! a FIFA 19.",
-    "caratula":"images/caratula/fifa19-caratula.jpg",
-    "price":65,
-    "desarrollador":"FromSoftware, Inc.",
-    "plataforma":"PC, Xbox, PS4, PS3",
-    "carpeta":"fifa-xix"
+        "portada":"../images/juegos/fifa-xix/caratula.jpg",
+        "nombre": "FIFA 19",
+        "subtitulo":"Tu temporada empieza ahora",
+        "descrip":"Con el poder de Frostbite™*, EA SPORTS™ FIFA 19 te entrega una experiencia de calibre de campeón dentro y fuera de la cancha. Empezando con la prestigiosa UEFA Champions League, FIFA 19 ofrece herramientas de juego mejoradas que te permiten controlar la cancha en todo momento. Hay formas de jugar nuevas e inigualables, como el dramático final de la historia de Alex Hunter en El Trayecto: Campeones, un nuevo modo en el popular FIFA Ultimate Team™, y mucho más. ¡Llegó la Champions! a FIFA 19.",
+        "caratula":"../images/caratula/fifa19-caratula.jpg",
+        "price":65,    
+        "desarrollador":"FromSoftware, Inc.",
+        "plataforma":"PC, Xbox, PS4, PS3",
+        "ERSB": "../images/ERSB_RP.svg",
+        "requerimientos":[" SO: Windows® 7 / Windows® 8 / Windows® 10 64-bit " , "Procesador: Intel Core i3-2100 a 3,1 GHz / AMD Phenom II X4 965 a 3,4 GHz " , "Memoria:8 GB" , "Video: NVIDIA GTX 460 de 1 GB / AMD Radeon R7 260"
+        ],
+        "carpeta":"fifa-xix", 
+        "genero":"#Deporte"
    },
-   {"nombre":"Dark Souls: Remastered",
-    "descrip":"Entonces llegó el Fuego. Vuelve a disfrutar del aclamado juego que definió el género con el que empezó todo. Gracias a una magnífica remasterización, podrás regresar a Lordran con unos impresionantes detalles en alta definición y a 60 fps. Dark Souls Remastered incluye el juego principal y el contenido descargable <<Artorias of the Abyss>>.",
-    "price":39,
-    "caratula":"images/caratula/caratula-juego.jpg",
-    "desarrollador":"BANDAI NAMCO Entertainment Inc.",
-    "plataforma": "PC, Xbos, PS4",
-    "carpeta":"dark-soul"
+   { "portada":"../images/juegos/dark-souls/portada.jpg",
+    "nombre":"Dark Souls: Remastered",
+    "subtitulo":"Entonces llegó el Fuego",
+    "descrip":" Vuelve a disfrutar del aclamado juego que definió el género con el que empezó todo. Gracias a una magnífica remasterización, podrás regresar a Lordran con unos impresionantes detalles en alta definición y a 60 fps. Dark Souls Remastered incluye el juego principal y el contenido descargable <<Artorias of the Abyss>>.",
+    "caratula":"../images/juegos/dark-souls/caratula.jpg",
+    "price":39,    
+    "desarrollador":"From Software",
+    "plataforma": "PC, PS3, PS4, Xbox",
+    "ERSB": "../images/mature17.gif",
+    "requerimientos":["SO: Windows 7 SP1, 8.1, 10 (todos 64 bits)","Procesador: Intel Core i5-2300 2.8 GHz / AMD FX-6300 3.5 GHz" , "Gráfica: Nvidia GeForce GTX 460 / ATI Radeon HD 6870 (ambas con 1GB VRAM y Dx 11)" , "RAM: 6 GB" , "HD: 8 GB"
+    ],
+    "carpeta":"dark-soul",
+    "genero":"#Accion #Aventura"    
+    },
+    {
+    "portada":"../images/juegos/bfv/portada.jpg",
+    "nombre":"Battlefield 5",
+    "subtitulo":"De vuelta al conflicto belíco",
+    "descrip":"  Battlefield V es un videojuego de acción bélica desarrollado por DICE y editado por EA ambientado en la Segunda Guerra Mundial, entre cuyas novedades dentro de la exitosa franquicia FPS dispone de un modo campaña compuesto por varias historias con diferentes protagonistas y ubicaciones, así como una vertiente multijugador donde se recupera el modo Conquista y se estrena una modalidad cooperativa. ",
+    "caratula":"../images/juegos/bfv/caratula.jpg",
+    "price":90,    
+    "desarrollador":"EA DICE",
+    "plataforma": "Xbox, PS4, PC",
+    "ERSB": "../images/rp.svg",
+    "requerimientos":["SO: Windows 7 SP1, 8.1, 10 (todos 64 bits)","Procesador: Intel Core i5-2300 2.8 GHz / AMD FX-6300 3.5 GHz" , "Gráfica: Nvidia GeForce GTX 460 / ATI Radeon HD 6870 (ambas con 1GB VRAM y Dx 11)" , "RAM: 6 GB" , "HD: 8 GB"
+    ],
+    "carpeta":"bfv",
+    "genero":"#Accion #Aventura #Shooter"
+    },
+    {
+    "portada":"../images/juegos/bfi/portada.jpg",
+    "nombre":"Battlefield 1",
+    "subtitulo":"Lánzate a la guerra total",
+    "descrip":"  Battlefield™ 1 te lleva hasta la Primera Guerra Mundial, donde nueva tecnología y un conflicto a nivel mundial cambiaron la guerra para siempre. Participa en cada batalla, controla cada enorme vehículo y ejecuta cada maniobra que transforma por completo un combate. El mundo entero está en guerra: checa qué hay tras las trincheras.",
+    "caratula":"../images/juegos/bfi/caratula.jpg",
+    "price":60,    
+    "desarrollador":"EA DICE",
+    "plataforma": "Xbox, PS4, PC",
+    "ERSB": "../images/mature17.gif",
+    "requerimientos":["SO: Windows 7 SP1, 8.1, 10 (todos 64 bits)","Procesador: Intel Core i5-2300 2.8 GHz / AMD FX-6300 3.5 GHz" , "Gráfica: Nvidia GeForce GTX 460 / ATI Radeon HD 6870 (ambas con 1GB VRAM y Dx 11)" , "RAM: 6 GB" , "HD: 8 GB"
+    ],
+    "carpeta":"bfi",
+    "genero":"#Accion #Aventura #Shooter"
+    },
+    {
+    "portada":"../images/juegos/bfiii/portada.jpg",
+    "nombre":"Battlefield 3",
+    "subtitulo":"Más Acción. Más Diversión",
+    "descrip":" Escala en la intensidad de Battlefield 3 y disfruta una libertad total para pelear de la forma que quieras. Explora nueve enormes mapas multijugador y usa montones de vehículos, armas y dispositivos para ayudarte a aumentar la tensión en el juego. Además cada segundo de batalla te acerca a desbloquear toneladas de extras.",
+    "caratula":"../images/juegos/bfiii/caratula.jpg",
+    "price":85,    
+    "desarrollador":"EA DICE",
+    "plataforma": "Xbox, PS4, PC",
+    "ERSB": "../images/mature17.gif",
+    "requerimientos":["SO: Windows 7 SP1, 8.1, 10 (todos 64 bits)","Procesador: Intel Core i5-2300 2.8 GHz / AMD FX-6300 3.5 GHz" , "Gráfica: Nvidia GeForce GTX 460 / ATI Radeon HD 6870 (ambas con 1GB VRAM y Dx 11)" , "RAM: 6 GB" , "HD: 8 GB"
+    ],
+    "carpeta":"bfiii",
+    "genero":"#Accion #Aventura #Shooter"  
+    },
+    {
+    "portada":"../images/juegos/bfiv/portada.jpg",
+    "nombre":"Battlefield 4",
+    "subtitulo":"Domina por Tierra, Aire y Mar",
+    "descrip":" Prepárate para una destrucción sin igual en Battlefield 4™. Disfruta el paquete de la guerra total con recompensas y desafíos tácticos en ambientes interactivos. Destruye los edificios que protegen a tu enemigo y lidera el asalto desde atrás de un cañonero. Tienes la libertad de ser y hacer más mientras juegas con tus puntos fuertes y te abres camino hasta la victoria. No hay comparación. Adéntrate en el espectacular caos de la guerra total. ",
+    "caratula":"../images/juegos/bfiv/caratula.jpg",
+    "price":85,    
+    "desarrollador":"EA DICE",
+    "plataforma": "Xbox, PS4, PC",
+    "ERSB": "../images/mature17.gif",
+    "requerimientos":["SO: Windows 7 SP1, 8.1, 10 (todos 64 bits)","Procesador: Intel Core i5-2300 2.8 GHz / AMD FX-6300 3.5 GHz" , "Gráfica: Nvidia GeForce GTX 460 / ATI Radeon HD 6870 (ambas con 1GB VRAM y Dx 11)" , "RAM: 6 GB" , "HD: 8 GB"
+    ],
+    "carpeta":"bfiv",
+    "genero":"#Accion #Aventura #Shooter"    
     }
+
 ]
