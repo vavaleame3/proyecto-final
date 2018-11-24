@@ -30,20 +30,6 @@
         "carpeta":"fifa-xix", 
         "genero":"#Deporte"
    },
-   { "portada":"images/juegos/dark-souls/portada.jpg",
-    "nombre":"Dark Souls: Remastered",
-    "subtitulo":"Entonces llegó el Fuego",
-    "descrip":" Vuelve a disfrutar del aclamado juego que definió el género con el que empezó todo. Gracias a una magnífica remasterización, podrás regresar a Lordran con unos impresionantes detalles en alta definición y a 60 fps. Dark Souls Remastered incluye el juego principal y el contenido descargable <<Artorias of the Abyss>>.",
-    "caratula":"images/juegos/dark-souls/caratula.jpg",
-    "price":39,    
-    "desarrollador":"From Software",
-    "plataforma": "PC, PS3, PS4, Xbox",
-    "ERSB": "images/mature17.gif",
-    "requerimientos":["SO: Windows 7 SP1, 8.1, 10 (todos 64 bits)","Procesador: Intel Core i5-2300 2.8 GHz / AMD FX-6300 3.5 GHz" , "Gráfica: Nvidia GeForce GTX 460 / ATI Radeon HD 6870 (ambas con 1GB VRAM y Dx 11)" , "RAM: 6 GB" , "HD: 8 GB"
-    ],
-    "carpeta":"dark-soul",
-    "genero":"#Accion #Aventura"    
-    },
     {
     "portada":"images/juegos/bfv/portada.jpg",
     "nombre":"Battlefield 5",
